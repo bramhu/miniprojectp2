@@ -1,4 +1,4 @@
-package opdracht_U_6;
+package Opdracht_B12;
 
 import java.awt.*;
 import java.awt.event.ActionListener;
